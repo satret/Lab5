@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Route>
+    <id>255</id>
+    <name>Silkroad</name>
+    <Coordinates>
+        <x>1.0</x>
+        <y>2.0</y>
+    </Coordinates>
+    <creationDate>29.03.2022</creationDate>
+    <Location>
+	<x>10.0</x>
+	<y>20.0</y>
+	<name>Europe</name>
+    </Location>
+    <Location2>
+	<x>100</x>
+	<y>200</y>
+	<name>Asia</name>
+    </Location2>
+</Route>
